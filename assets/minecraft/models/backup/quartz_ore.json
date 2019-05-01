@@ -1,0 +1,6 @@
+{
+	"parent": "block/ore",
+    "textures": {
+        "ore": "block/quartz_ore"
+    }
+}

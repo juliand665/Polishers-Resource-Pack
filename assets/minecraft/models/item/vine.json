@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated_scaled",
+    "textures": {
+        "layer0": "block/vine"
+    }
+}

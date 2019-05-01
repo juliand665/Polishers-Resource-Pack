@@ -1,0 +1,4697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:assets"
+      name = "assets">
+      <Group
+         location = "group:minecraft"
+         name = "minecraft">
+         <Group
+            location = "group:blockstates"
+            name = "blockstates">
+            <FileRef
+               location = "group:bedrock.json">
+            </FileRef>
+            <FileRef
+               location = "group:dirt.json">
+            </FileRef>
+            <FileRef
+               location = "group:grass.json">
+            </FileRef>
+            <FileRef
+               location = "group:netherrack.json">
+            </FileRef>
+            <FileRef
+               location = "group:redstone_wire.json">
+            </FileRef>
+            <FileRef
+               location = "group:stone.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:lang"
+            name = "lang">
+            <FileRef
+               location = "group:en_US.lang">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:mcpatcher"
+            name = "mcpatcher">
+            <FileRef
+               location = "group:ctm.png">
+            </FileRef>
+            <Group
+               location = "group:ctm"
+               name = "ctm">
+               <Group
+                  location = "group:stone_slab_side"
+                  name = "stone_slab_side">
+                  <FileRef
+                     location = "group:side_2.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:side_1.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:side_0.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:side_0.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:side_1.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:side_2.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stone_slab_side.properties">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:stone_slab_top"
+                  name = "stone_slab_top">
+                  <FileRef
+                     location = "group:udlrdldr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:lr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlruldl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulurdl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulul.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlrdldr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:l.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ud.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrurdldr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulrul.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udrdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlul.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrurdldr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udrdr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrdr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulrul.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlul.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:l.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ud.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulul.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlrdldr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrdldr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlruldl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:lr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulurdl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlrdl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrul.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udluldl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrurdl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlruldldr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulurdldr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dldl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stone_slab_top.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dldl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrurdl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlruldldr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulurdldr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrul.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udluldl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlrdl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlrdr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udrur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udldl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrurdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udrurdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:urur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:urur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrurdr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udrurdr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udrur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udldl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlrdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:u.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulurdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:drdr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulrulur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:r.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlr.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ul.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:d.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulrur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrdl.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ul.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrdl.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulrur.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:d.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:r.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dlr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:drdr.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ulrulur.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:u.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:udlrulurdr.png">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:sandstone"
+                  name = "sandstone">
+                  <FileRef
+                     location = "group:sandstone.properties">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:bookshelf"
+                  name = "bookshelf">
+                  <FileRef
+                     location = "group:bookshelf.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:14.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:15.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:12.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:13.png">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:planks"
+                  name = "planks">
+                  <FileRef
+                     location = "group:8.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:9.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:14.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:15.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:12.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:13.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:11.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:block5b.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:10.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:block5a.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:4.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:block5.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:5.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:7.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:6.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:block5c.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:2.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:6.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:7.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:3.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:1.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:5.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:4.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:0.png">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:glass"
+                  name = "glass">
+                  <FileRef
+                     location = "group:48.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:49.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:59.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:58.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:8.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:9.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:glasspane.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:29.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:17.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:16.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:39.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:11.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:10.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:38.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:35.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:21.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:20.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:34.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:22.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:36.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:37.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:23.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:27.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:33.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:32.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:26.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:18.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:30.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:24.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:25.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:31.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:19.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:4.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:56.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:42.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:43.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:5.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:57.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:41.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:55.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:7.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:glass.properties">
+                  </FileRef>
+                  <FileRef
+                     location = "group:54.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:6.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:40.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:2.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:50.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:3.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:51.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:53.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:1.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:52.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:0.png">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+         <Group
+            location = "group:models"
+            name = "models">
+            <Group
+               location = "group:item"
+               name = "item">
+               <FileRef
+                  location = "group:black_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:cake.json">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator.json">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame.json">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:glass.json">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:green_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_bars.json">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:light_gray_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:red_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:repeater.json">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower.json">
+               </FileRef>
+               <FileRef
+                  location = "group:white_stained_glass_pane.json">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_stained_glass_pane.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:backup"
+               name = "backup">
+               <FileRef
+                  location = "group:emerald_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:lit_redstone_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:lapis_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:gold_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:coal_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_ore.json">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanting_table_base.json">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_ore.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:block"
+               name = "block">
+               <FileRef
+                  location = "group:block.json">
+               </FileRef>
+               <FileRef
+                  location = "group:brewing_stand.json">
+               </FileRef>
+               <FileRef
+                  location = "group:door_bottom_rh.json">
+               </FileRef>
+               <FileRef
+                  location = "group:door_bottom.json">
+               </FileRef>
+               <FileRef
+                  location = "group:door_top_rh.json">
+               </FileRef>
+               <FileRef
+                  location = "group:door_top.json">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanting_table.json">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_filled.json">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame.json">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_inv.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_0.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_1.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_2.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_3.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_4.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_5.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_6.json">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_normal_7.json">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_on.json">
+               </FileRef>
+               <FileRef
+                  location = "group:observer.json">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_dot.json">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_side_alt.json">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_side.json">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_up.json">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone.json">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_block.json">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_bottom.json">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_top.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:texts"
+            name = "texts">
+            <FileRef
+               location = "group:splashes.txt">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:textures"
+            name = "textures">
+            <Group
+               location = "group:block"
+               name = "block">
+               <FileRef
+                  location = "group:acacia_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_leaves.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_log_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_log_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_log.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_log.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_planks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_sapling.png">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_sapling.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:activator_rail_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:activator_rail.png">
+               </FileRef>
+               <FileRef
+                  location = "group:allium.png">
+               </FileRef>
+               <FileRef
+                  location = "group:andesite.png">
+               </FileRef>
+               <FileRef
+                  location = "group:andesite.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:anvil_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:anvil.png">
+               </FileRef>
+               <FileRef
+                  location = "group:attached_melon_stem.png">
+               </FileRef>
+               <FileRef
+                  location = "group:attached_melon_stem.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:attached_pumpkin_stem.png">
+               </FileRef>
+               <FileRef
+                  location = "group:attached_pumpkin_stem.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:azure_bluet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beacon.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed_feet_end.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed_feet_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed_feet_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed_head_end.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed_head_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed_head_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:bedrock.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage0.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage1.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage2.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroots_stage3.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_leaves.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_log_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_log_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_log.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_planks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_sapling.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_sapling.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:black_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:black_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:black_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:black_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:black_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:black_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_orchid.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blue_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bone_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bone_block_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:bone_block_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bone_block_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:bookshelf.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brewing_stand_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brewing_stand.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brewing_stand.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_mushroom_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_mushroom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brown_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cactus_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cactus_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cactus_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake_inner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_0.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_1.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_2.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_3.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_stage0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_stage1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_stage2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:carrots_stage3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cauldron_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cauldron_inner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cauldron_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cauldron_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_back.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_back.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_conditional.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_conditional.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chain_command_block_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chipped_anvil_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_quartz_block_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_quartz_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_quartz_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_red_sandstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_red_sandstone.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_sandstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chiseled_stone_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chorus_flower_dead.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chorus_flower_dead.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chorus_flower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chorus_flower.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chorus_plant.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chorus_plant.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:clay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cmd_back.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cmd_base.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cmd_cond.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cmd_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cmd_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:coal_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:coal_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:coal_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:coarse_dirt.png">
+               </FileRef>
+               <FileRef
+                  location = "group:coarse_dirt.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cobblestone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cobblestone.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cobweb.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cocoa_stage0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cocoa_stage1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cocoa_stage2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_back.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_back.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_conditional.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_conditional.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator_on.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator.png">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:concrete_light_gray.png">
+               </FileRef>
+               <FileRef
+                  location = "group:concrete_powder_base_mask.png">
+               </FileRef>
+               <FileRef
+                  location = "group:concrete_powder_base_mask.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:concrete_powder_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:concrete_powder_light_gray.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cracked_stone_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cracked_stone_bricks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:crafting_table_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:crafting_table_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:crafting_table_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cut_red_sandstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cut_red_sandstone.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cut_sandstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:damaged_anvil_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dandelion.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_leaves.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_log_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_log_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_log.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_log.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_planks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_planks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_sapling.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_sapling.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_prismarine.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_prismarine.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:daylight_detector_inverted_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:daylight_detector_inverted_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:daylight_detector_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:daylight_detector_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:daylight_detector_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:daylight_detector_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dead_bush.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dead_bush.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:debug.png">
+               </FileRef>
+               <FileRef
+                  location = "group:debug2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_4.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_5.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_6.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_7.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_8.png">
+               </FileRef>
+               <FileRef
+                  location = "group:destroy_stage_9.png">
+               </FileRef>
+               <FileRef
+                  location = "group:detector_rail_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:detector_rail.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diorite.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diorite.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dirt.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dispenser_front_vertical.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dispenser_front_vertical.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dispenser_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:door_acacia.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:door_birch.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:door_dark_oak.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:door_iron.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:door_jungle.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:door_spruce.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:door_wood.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dragon_egg.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dropper_front_vertical.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dropper_front_vertical.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dropper_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dropper_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:emerald_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:emerald_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:emerald_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanting_rug.png">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanting_rug.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_eye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_eye.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_front_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_front_on.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_inside.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_inside.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_top_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_top_on.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_portal_frame_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_rod.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_rod.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_stone_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_stone_bricks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:end_stone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:farmland_wet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:farmland.png">
+               </FileRef>
+               <FileRef
+                  location = "group:fern.png">
+               </FileRef>
+               <FileRef
+                  location = "group:fern.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:fire_layer_0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:fire_layer_1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:flower_paeonia.png">
+               </FileRef>
+               <FileRef
+                  location = "group:flower_pot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_0.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_1.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_2.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:frosted_ice_3.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:furnace_front_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:furnace_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:furnace_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:furnace_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_base.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_inv.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_pane_top_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_pane_top_base.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_pane_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glowstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gold_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gold_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:gold_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:granite.png">
+               </FileRef>
+               <FileRef
+                  location = "group:granite.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_block_side_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_block_snow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_block_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_path_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_path_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_path_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_path_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_4.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_5.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_6.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass_top_7.png">
+               </FileRef>
+               <FileRef
+                  location = "group:grass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gravel.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gravel.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:green_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:green_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:green_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:green_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:green_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:green_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hay_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hay_block_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:hay_block_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hay_block_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_inside.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_inside.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_outside.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:ice.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_bars.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_trapdoor.png">
+               </FileRef>
+               <FileRef
+                  location = "group:itemframe_background.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jukebox_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jukebox_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_leaves.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_log_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_log_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_log.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_planks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_sapling.png">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_sapling.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:ladder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lapis_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lapis_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lapis_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lapis_ore.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:large_fern_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:large_fern_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:large_fern_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:large_fern_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lava_flow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lava_flow.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:lava_still.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lava_still.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:lava.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lever.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_gray_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_gray_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_gray_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_gray_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lilac_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lilac_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lilac_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lilac_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lily_pad.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magma_tiled.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:magma.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magma.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:magma.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:melon_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:melon_stem.png">
+               </FileRef>
+               <FileRef
+                  location = "group:melon_stem.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:melon_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mob_spawner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mossy_cobblestone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mossy_cobblestone.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:mossy_stone_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mossy_stone_bricks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:mushroom_block_inside.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mushroom_inside.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:mushroom_stem.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mycelium_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mycelium_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_quartz_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_quartz_ore.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_wart_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_wart_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_wart_stage0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_wart_stage1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_wart_stage2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:netherquartz.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:netherrack.png">
+               </FileRef>
+               <FileRef
+                  location = "group:note_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_leaves.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_log_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_log.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_planks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_planks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_sapling.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_sapling.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_back_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_back.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_back.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_front_lit.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_side_lit.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:observer_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:obsidian.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_tulip.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oxeye_daisy.png">
+               </FileRef>
+               <FileRef
+                  location = "group:packed_ice.png">
+               </FileRef>
+               <FileRef
+                  location = "group:packed_ice.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:peony_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:peony_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:peony_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:peony_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_tulip.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:piston_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:piston_inner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:piston_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:piston_top_sticky.png">
+               </FileRef>
+               <FileRef
+                  location = "group:piston_top_sticky.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:piston_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:podzol_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:podzol_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:polished_andesite.png">
+               </FileRef>
+               <FileRef
+                  location = "group:polished_andesite.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:polished_diorite.png">
+               </FileRef>
+               <FileRef
+                  location = "group:polished_diorite.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:polished_granite.png">
+               </FileRef>
+               <FileRef
+                  location = "group:polished_granite.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:poppy.png">
+               </FileRef>
+               <FileRef
+                  location = "group:portal.png">
+               </FileRef>
+               <FileRef
+                  location = "group:portal.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:portal.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_0.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_1.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_2.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_3.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_stage0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_stage1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_stage2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:potatoes_stage3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:powered_rail_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:powered_rail.png">
+               </FileRef>
+               <FileRef
+                  location = "group:prismarine_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:prismarine_bricks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:prismarine_dark old.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:prismarine.png">
+               </FileRef>
+               <FileRef
+                  location = "group:prismarine.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:prismarine.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkin_face_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkin_face.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkin_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkin_stem.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkin_stem.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkin_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purpur_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purpur_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:purpur_pillar_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purpur_pillar_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:purpur_pillar.png">
+               </FileRef>
+               <FileRef
+                  location = "group:purpur_pillar.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_block_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_block_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_block_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_block_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_pillar_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_pillar_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_pillar.png">
+               </FileRef>
+               <FileRef
+                  location = "group:quartz_pillar.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rail_corner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:rail.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_mushroom_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_mushroom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_nether_brick.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_nether_brick.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sand.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sand.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sandstone_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sandstone_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sandstone_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sandstone_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sandstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_sandstone.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:red_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_tulip.png">
+               </FileRef>
+               <FileRef
+                  location = "group:red_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_dust_dot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_dust_line.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_lamp_off.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_lamp_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_ore.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_torch_off.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone_torch.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeater_on.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeater.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_back.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_back.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_conditional.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_conditional.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeating_command_block_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rose_bush_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:rose_bush_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rose_bush_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:rose_bush_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sand.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sandstone_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sandstone_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sandstone_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sandstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sandstone.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sea_lantern.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sea_lantern.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:sea_lantern.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:silver_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:silver_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:silver_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:silver_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:silver_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:silver_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_inner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_inner.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:snow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:soul_sand.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sponge.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sponge.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_door_lower.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_door_upper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_leaves.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_log_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_log.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_planks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_planks.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_sapling.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_sapling.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_bricks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_slab_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_slab_side.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_slab_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_slab_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:stone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_corner.png">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_corner.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_data.png">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_data.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_load.png">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_load.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_save.png">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block_save.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block.png">
+               </FileRef>
+               <FileRef
+                  location = "group:structure_block.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sugar_cane.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sugar_cane.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_back.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_back.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_front.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_front.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sunflower_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:tall_grass_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tall_grass_bottom.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:tall_grass_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tall_grass_top.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:terracotta_mask.png">
+               </FileRef>
+               <FileRef
+                  location = "group:terracotta_mask.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:terracotta.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:tnt_bottom.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tnt_side.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tnt_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:torch.png">
+               </FileRef>
+               <FileRef
+                  location = "group:trapdoor.png">
+               </FileRef>
+               <FileRef
+                  location = "group:trip_wire_hook.png">
+               </FileRef>
+               <FileRef
+                  location = "group:trip_wire.png">
+               </FileRef>
+               <FileRef
+                  location = "group:vine.png">
+               </FileRef>
+               <FileRef
+                  location = "group:vine.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:water_flow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:water_flow.png.mcmeta"
+                  assignedFileDataType = "public.json">
+               </FileRef>
+               <FileRef
+                  location = "group:water_flow.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:water_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:water_overlay.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:water_still.png">
+               </FileRef>
+               <FileRef
+                  location = "group:water_still.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:wet_sponge.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wet_sponge.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage0.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage3.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage4.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage5.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage6.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wheat_stage7.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_tulip.png">
+               </FileRef>
+               <FileRef
+                  location = "group:white_wool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_base_old.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_base.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_blue.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_colored_light_gray.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_green.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_purple.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_red.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wool_yellow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_concrete_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_concrete.png">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_stained_glass_pane_top.png">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_stained_glass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_terracotta.png">
+               </FileRef>
+               <FileRef
+                  location = "group:yellow_wool.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:colormap"
+               name = "colormap">
+               <FileRef
+                  location = "group:grass.png">
+               </FileRef>
+               <FileRef
+                  location = "group:foliage.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:effect"
+               name = "effect">
+               <FileRef
+                  location = "group:dither.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:entity"
+               name = "entity">
+               <FileRef
+                  location = "group:beacon_beam.psd">
+               </FileRef>
+               <Group
+                  location = "group:creeper"
+                  name = "creeper">
+                  <FileRef
+                     location = "group:creeper.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:creeper.psd">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:shield"
+                  name = "shield">
+                  <FileRef
+                     location = "group:gradient.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:border.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangle_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:skull.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_horizontal_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:bricks.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:small_stripes.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:curly_border.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_top_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_bottom_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_up_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:circle.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_bottom_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_vertical_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangle_top.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_horizontal.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_downleft.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_downright.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:rhombus.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_top_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:cross.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:gradient_up.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:flower.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_center.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangles_top.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:straight_cross.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:mojang.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:creeper.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_vertical.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangles_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_middle.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_top.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_up_right.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:boat.png">
+               </FileRef>
+               <Group
+                  location = "group:bed"
+                  name = "bed">
+                  <FileRef
+                     location = "group:light_blue.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base_mask.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:gray.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:lime.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:yellow.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:pink.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:blue.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:black.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:light_gray.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:orange.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:green.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:silver.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base_red.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:cyan.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:brown.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:magenta.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:white.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:red.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:purple.png">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:conduit"
+                  name = "conduit">
+                  <FileRef
+                     location = "group:cage.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:wind_vertical.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:break_particle.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:wind.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:open_eye.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:closed_eye.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:boat.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:beacon_beam.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sign.psd">
+               </FileRef>
+               <Group
+                  location = "group:armorstand"
+                  name = "armorstand">
+                  <FileRef
+                     location = "group:wood.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:wood.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:shield_base.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanting_table_book.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanting_table_book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:shield_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sign.png">
+               </FileRef>
+               <Group
+                  location = "group:shulker"
+                  name = "shulker">
+                  <FileRef
+                     location = "group:shulker_green.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_gray.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_purple.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_lime.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_base_mask.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_silver.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:spark.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_pink.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_blue.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_brown.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_orange.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_red.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:spark.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_white.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_base.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_yellow.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_base.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_light_gray.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_cyan.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_light_blue.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_magenta.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_black.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:elytra.png">
+               </FileRef>
+               <FileRef
+                  location = "group:minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:elytra.psd">
+               </FileRef>
+               <Group
+                  location = "group:chest"
+                  name = "chest">
+                  <FileRef
+                     location = "group:trapped.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ender.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ender.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:trapped.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:normal_double.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:trapped_double.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:normal_double.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:trapped_double.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:normal.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:normal.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:experience_orb.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_gateway_beam.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:banner_base.png">
+               </FileRef>
+               <FileRef
+                  location = "group:banner_base.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:explosion.png">
+               </FileRef>
+               <Group
+                  location = "group:banner"
+                  name = "banner">
+                  <FileRef
+                     location = "group:gradient_.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:gradient.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:border.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:small_stripes.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_horizontal_bottom.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:bricks.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangle_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:skull.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:skull.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_left.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_horizontal_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangle_bottom.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:bricks.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:gradient.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:border.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:small_stripes.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangle_top.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:curly_border.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_top_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_horizontal.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_downleft.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_vertical_right.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_bottom_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_up_left.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:circle.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_bottom_left.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_up_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:circle.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_bottom_left.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_left.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_vertical_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_bottom_right.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_bottom.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangle_top.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_horizontal.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_top_left.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:curly_border.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_downleft.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_downright.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangles_top.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:rhombus.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:flower.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_center.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:gradient_up.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_top_right.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:cross.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:square_top_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:cross.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:base.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:rhombus.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:gradient_up.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:flower.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_center.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangles_top.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_downright.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:straight_cross.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_right.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_up_right.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_middle.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_top.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:mojang.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangles_bottom.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:creeper.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_vertical.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:half_vertical.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:triangles_bottom.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:creeper.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:mojang.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:straight_cross.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_right.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_middle.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stripe_top.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:diagonal_up_right.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:end_gateway_beam.png">
+               </FileRef>
+               <FileRef
+                  location = "group:shield_base_nopattern.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:environment"
+               name = "environment">
+               <FileRef
+                  location = "group:clouds.png">
+               </FileRef>
+               <FileRef
+                  location = "group:end_sky.png">
+               </FileRef>
+               <FileRef
+                  location = "group:snow.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:snow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:clouds.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rain.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sun.png">
+               </FileRef>
+               <FileRef
+                  location = "group:moon_phases.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:moon_phases.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sun.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rain.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:font"
+               name = "font">
+               <FileRef
+                  location = "group:ascii.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:ascii.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ascii_sga.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:gui"
+               name = "gui">
+               <FileRef
+                  location = "group:toasts.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:resource_packs.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:widgets.png">
+               </FileRef>
+               <FileRef
+                  location = "group:options_background.png">
+               </FileRef>
+               <FileRef
+                  location = "group:recipe_book.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:spectator_widgets.png">
+               </FileRef>
+               <FileRef
+                  location = "group:book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spectator_widgets.psd">
+               </FileRef>
+               <Group
+                  location = "group:achievement"
+                  name = "achievement">
+                  <FileRef
+                     location = "group:achievement_background.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:achievement_background.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:achievement_icons.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:book.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:recipe_book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:widgets.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:options_background.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:toasts.png">
+               </FileRef>
+               <FileRef
+                  location = "group:resource_packs.png">
+               </FileRef>
+               <Group
+                  location = "group:title"
+                  name = "title">
+                  <Group
+                     location = "group:background"
+                     name = "background">
+                     <FileRef
+                        location = "group:panorama_0.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:panorama_1.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:panorama_3.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:panorama_2.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:panorama_5.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:panorama_4.png">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:minecraft.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:minecraft.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:mojang.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:mojang.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:edition.png">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:stream_indicator.png">
+               </FileRef>
+               <FileRef
+                  location = "group:world_selection.psd">
+               </FileRef>
+               <Group
+                  location = "group:advancements"
+                  name = "advancements">
+                  <FileRef
+                     location = "group:widgets.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:tabs.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:widgets.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:tabs.psd">
+                  </FileRef>
+                  <Group
+                     location = "group:backgrounds"
+                     name = "backgrounds">
+                     <FileRef
+                        location = "group:husbandry.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:husbandry.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:end.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:adventure.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:end.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:adventure.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:stone.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:nether.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:nether.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:stone.psd">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:window.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:window.psd">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:world_selection.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stream_indicator.psd">
+               </FileRef>
+               <Group
+                  location = "group:container"
+                  name = "container">
+                  <FileRef
+                     location = "group:dispenser.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:horse.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:inventory.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:inventory.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:dispenser.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:horse.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:furnace.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_box.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:beacon.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:beacon.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:shulker_box.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:furnace.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:brewing_stand.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:hopper.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:anvil.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:generic_54.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:hopper.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:generic_54.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:anvil.psd">
+                  </FileRef>
+                  <Group
+                     location = "group:creative_inventory"
+                     name = "creative_inventory">
+                     <FileRef
+                        location = "group:tabs.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tabs.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tab_inventory.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tab_inventory.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tab_items.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tab_items.psd">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tab_item_search.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:tab_item_search.psd">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:brewing_stand.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:enchanting_table.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stats_icons.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:villager.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:crafting_table.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:crafting_table.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:villager.png">
+                  </FileRef>
+                  <FileRef
+                     location = "group:enchanting_table.psd">
+                  </FileRef>
+                  <FileRef
+                     location = "group:stats_icons.psd">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:server_selection.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:icons.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bars.png">
+               </FileRef>
+               <FileRef
+                  location = "group:icons.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:bars.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:server_selection.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:item"
+               name = "item">
+               <FileRef
+                  location = "group:emerald.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chainmail_chestplate.png">
+               </FileRef>
+               <FileRef
+                  location = "group:barrier.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_boots.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magma_cream.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dandelion_yellow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_shovel.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tnt_minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:firework_star_overlay.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_hoe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:boat.png">
+               </FileRef>
+               <FileRef
+                  location = "group:paper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cauldron.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_hoe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bowl.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cyan_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_star.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:mushroom_stew.png">
+               </FileRef>
+               <FileRef
+                  location = "group:splash_potion.png">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_chestplate.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ender_pearl.png">
+               </FileRef>
+               <FileRef
+                  location = "group:empty_armor_slot_shield.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:ink_sac.png">
+               </FileRef>
+               <FileRef
+                  location = "group:book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:empty_armor_slot_chestplate.png">
+               </FileRef>
+               <FileRef
+                  location = "group:nether_star.png">
+               </FileRef>
+               <FileRef
+                  location = "group:empty_armor_slot_shield.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ender_pearl.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_boots.png">
+               </FileRef>
+               <FileRef
+                  location = "group:mushroom_stew.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:wooden_axe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:book.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_far.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cauldron.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:bowl.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_wait.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cake.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:item_frame.png">
+               </FileRef>
+               <FileRef
+                  location = "group:potion.png">
+               </FileRef>
+               <FileRef
+                  location = "group:command_block_minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:purple_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_chestplate.png">
+               </FileRef>
+               <FileRef
+                  location = "group:birch_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:oak_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tnt_minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:sugar.png">
+               </FileRef>
+               <FileRef
+                  location = "group:firework_star_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:potato.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:paper.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:boat.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:wooden_sword.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_hoe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:barrier.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:gold_ingot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_strad.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magma_cream.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_shovel.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_pickaxe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_axe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sign.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chainmail_leggings.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_helmet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_apple.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_pickaxe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:light_gray_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:coal.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:carrot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wooden_pickaxe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:writable_book.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:cookie.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gold_nugget.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ingotIron.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:repeater.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:blaze_powder.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:empty_armor_slot_leggings.png">
+               </FileRef>
+               <FileRef
+                  location = "group:firework_rocket.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chainmail_helmet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:potion_overlay.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rabbit_stew.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_mall.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chest_minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:milk.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_sword.png">
+               </FileRef>
+               <FileRef
+                  location = "group:water_bucket.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:spawn_egg.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:acacia_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:netherbrick.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_axe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:arrow.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:chest_minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:water_bucket.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ingotGold.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_cat.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spawn_egg.png">
+               </FileRef>
+               <FileRef
+                  location = "group:arrow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bone_meal.png">
+               </FileRef>
+               <FileRef
+                  location = "group:netherbrick.png">
+               </FileRef>
+               <FileRef
+                  location = "group:repeater.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cookie.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:stick.png">
+               </FileRef>
+               <FileRef
+                  location = "group:snowball.png">
+               </FileRef>
+               <FileRef
+                  location = "group:shears.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blaze_powder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_axe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_chestplate.png">
+               </FileRef>
+               <FileRef
+                  location = "group:rabbit_stew.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:potion_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:firework_rocket.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:light_blue_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_helmet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wooden_hoe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_sword.png">
+               </FileRef>
+               <FileRef
+                  location = "group:carrot.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:coal.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_pickaxe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:writable_book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bed.png">
+               </FileRef>
+               <FileRef
+                  location = "group:sign.png">
+               </FileRef>
+               <FileRef
+                  location = "group:painting.png">
+               </FileRef>
+               <FileRef
+                  location = "group:baked_potato.png">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_chestplate_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_apple.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanted_book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:fire_charge.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_carrot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroot_soup.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_shovel.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_hoe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_ball.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_helmet_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:elytra.png">
+               </FileRef>
+               <FileRef
+                  location = "group:apple.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brewing_stand.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_sword.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_mellohi.png">
+               </FileRef>
+               <FileRef
+                  location = "group:melon.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:spruce_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_boots.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:jungle_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_leggings.png">
+               </FileRef>
+               <FileRef
+                  location = "group:minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ender_eye.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lava_bucket.png">
+               </FileRef>
+               <FileRef
+                  location = "group:clay_ball.png">
+               </FileRef>
+               <FileRef
+                  location = "group:poisonous_potato.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lime_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:chainmail_boots.png">
+               </FileRef>
+               <FileRef
+                  location = "group:minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:rose_red.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ender_eye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lava_bucket.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lapis_lazuli.png">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_leggings.png">
+               </FileRef>
+               <FileRef
+                  location = "group:melon.png">
+               </FileRef>
+               <FileRef
+                  location = "group:comparator.png">
+               </FileRef>
+               <FileRef
+                  location = "group:hopper_minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_13.png">
+               </FileRef>
+               <FileRef
+                  location = "group:blaze_rod.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_11.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cocoa_beans.png">
+               </FileRef>
+               <FileRef
+                  location = "group:apple.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:elytra.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:brewing_stand.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_sword.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_leggings.png">
+               </FileRef>
+               <FileRef
+                  location = "group:cactus_green.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_carrot.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:fire_charge.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanted_book.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:milk_bucket.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroot_soup.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:slime_ball.png">
+               </FileRef>
+               <FileRef
+                  location = "group:empty_armor_slot_helmet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_shovel.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stone_pickaxe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:wooden_shovel.png">
+               </FileRef>
+               <FileRef
+                  location = "group:firework_star.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_helmet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brick.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:written_book.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_chestplate.png">
+               </FileRef>
+               <FileRef
+                  location = "group:golden_boots.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_blocks.png">
+               </FileRef>
+               <FileRef
+                  location = "group:spawn_egg_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:glowstone_dust.png">
+               </FileRef>
+               <FileRef
+                  location = "group:furnace_minecart.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:dragon_breath.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_stal.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_axe.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_ward.png">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_boots_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_ingot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gunpowder.png">
+               </FileRef>
+               <FileRef
+                  location = "group:feather.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroot.png">
+               </FileRef>
+               <FileRef
+                  location = "group:leather_leggings_overlay.png">
+               </FileRef>
+               <FileRef
+                  location = "group:egg.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bucket.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dark_oak_door.png">
+               </FileRef>
+               <FileRef
+                  location = "group:charcoal.png">
+               </FileRef>
+               <FileRef
+                  location = "group:gray_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:pink_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:lingering_potion.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:broken_elytra.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bucket.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:egg.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:iron_leggings.png">
+               </FileRef>
+               <FileRef
+                  location = "group:charcoal.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:empty_armor_slot_boots.png">
+               </FileRef>
+               <FileRef
+                  location = "group:broken_elytra.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:lingering_potion.png">
+               </FileRef>
+               <FileRef
+                  location = "group:magenta_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:orange_dye.png">
+               </FileRef>
+               <FileRef
+                  location = "group:feather.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:glass_bottle.png">
+               </FileRef>
+               <FileRef
+                  location = "group:music_disc_chirp.png">
+               </FileRef>
+               <FileRef
+                  location = "group:beetroot.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:spawn_egg_overlay.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:furnace_minecart.png">
+               </FileRef>
+               <FileRef
+                  location = "group:dragon_breath.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:diamond_helmet.png">
+               </FileRef>
+               <FileRef
+                  location = "group:redstone.png">
+               </FileRef>
+               <FileRef
+                  location = "group:firework_star.png">
+               </FileRef>
+               <FileRef
+                  location = "group:brick.png">
+               </FileRef>
+               <FileRef
+                  location = "group:written_book.psd">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:map"
+               name = "map">
+               <FileRef
+                  location = "group:map_icons.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:map_icons.png">
+               </FileRef>
+               <FileRef
+                  location = "group:map_background.png">
+               </FileRef>
+               <FileRef
+                  location = "group:map_background.psd">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:misc"
+               name = "misc">
+               <FileRef
+                  location = "group:vignette.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkinblur.png">
+               </FileRef>
+               <FileRef
+                  location = "group:unknown_server.png">
+               </FileRef>
+               <FileRef
+                  location = "group:forcefield.png">
+               </FileRef>
+               <FileRef
+                  location = "group:unknown_server.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:shadow.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:xporbcolor.png">
+               </FileRef>
+               <FileRef
+                  location = "group:vignette.png">
+               </FileRef>
+               <FileRef
+                  location = "group:unknown_pack.png">
+               </FileRef>
+               <FileRef
+                  location = "group:underwater.png">
+               </FileRef>
+               <FileRef
+                  location = "group:shadow.png">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanted_item_glint.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:shadow.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:pumpkinblur.png.mcmeta">
+               </FileRef>
+               <FileRef
+                  location = "group:underwater.psd">
+               </FileRef>
+               <FileRef
+                  location = "group:enchanted_item_glint.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:painting"
+               name = "painting">
+               <FileRef
+                  location = "group:paintings_kristoffer_zetterstrand.png">
+               </FileRef>
+               <FileRef
+                  location = "group:paintings_kristoffer_zetterstrand.psd">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:particle"
+               name = "particle">
+               <FileRef
+                  location = "group:particles.png">
+               </FileRef>
+               <FileRef
+                  location = "group:footprint.png">
+               </FileRef>
+               <FileRef
+                  location = "group:particles.psd">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:terrain.psd">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Colors.colorset">
+   </FileRef>
+   <FileRef
+      location = "group:Copyright.txt">
+   </FileRef>
+   <FileRef
+      location = "group:pack.icns">
+   </FileRef>
+   <FileRef
+      location = "group:pack.mcmeta">
+   </FileRef>
+   <FileRef
+      location = "group:pack.png">
+   </FileRef>
+   <FileRef
+      location = "group:pack.psd">
+   </FileRef>
+</Workspace>
