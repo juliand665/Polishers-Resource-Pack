@@ -1,0 +1,82 @@
+{
+	"textures": {
+		"particle": "block/ladder",
+		"supports": "block/ladder_supports",
+		"struts": "block/ladder_struts",
+		"top": "block/ladder_ends"
+	},
+	"elements": [
+		{
+			"from": [ 2,  0, 14],
+			"to":   [ 4, 16, 16],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#top" },
+				"north": { "texture": "#supports" },
+				"south": { "texture": "#supports" },
+				"east": { "texture": "#supports" },
+				"west": { "texture": "#supports" }
+			}
+		},
+		{
+			"from": [12,  0, 14],
+			"to":   [14, 16, 16],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#top" },
+				"north": { "texture": "#supports" },
+				"south": { "texture": "#supports" },
+				"east": { "texture": "#supports" },
+				"west": { "texture": "#supports" }
+			}
+		},
+		{
+			"from": [ 1,  1, 14.5],
+			"to":   [15,  3, 15.5],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#top" },
+				"north": { "texture": "#struts" },
+				"south": { "texture": "#struts" },
+				"east": { "texture": "#struts" },
+				"west": { "texture": "#struts" }
+			}
+		},
+		{
+			"from": [ 1,  5, 14.5],
+			"to":   [15,  7, 15.5],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#top" },
+				"north": { "texture": "#struts" },
+				"south": { "texture": "#struts" },
+				"east": { "texture": "#struts" },
+				"west": { "texture": "#struts" }
+			}
+		},
+		{
+			"from": [ 1,  9, 14.5],
+			"to":   [15, 11, 15.5],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#top" },
+				"north": { "texture": "#struts" },
+				"south": { "texture": "#struts" },
+				"east": { "texture": "#struts" },
+				"west": { "texture": "#struts" }
+			}
+		},
+		{
+			"from": [ 1, 13, 14.5],
+			"to":   [15, 15, 15.5],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#top" },
+				"north": { "texture": "#struts" },
+				"south": { "texture": "#struts" },
+				"east": { "texture": "#struts" },
+				"west": { "texture": "#struts" }
+			}
+		}
+	]
+}
