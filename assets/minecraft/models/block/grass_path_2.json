@@ -1,0 +1,6 @@
+{
+    "parent": "block/grass_path",
+    "textures": {
+        "top": "block/grass_path_top_2"
+    }
+}

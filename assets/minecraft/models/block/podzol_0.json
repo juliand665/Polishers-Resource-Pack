@@ -1,0 +1,6 @@
+{
+    "parent": "block/podzol",
+    "textures": {
+        "top": "block/podzol_top_0"
+    }
+}
